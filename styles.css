@@ -39,3 +39,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+
+footer a {
+  color: #4ECCA3;
+  text-decoration: none;
+}
